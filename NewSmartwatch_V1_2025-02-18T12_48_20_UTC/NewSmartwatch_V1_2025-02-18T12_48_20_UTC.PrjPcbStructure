@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Smartwatch_Display.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Smartwatch_Display.SchDoc|FileName=Smartwatch_Microcontroller.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Smartwatch_Display.SchDoc|FileName=Smartwatch_PowerManagement.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Smartwatch_Display.SchDoc|FileName=Smartwatch_SensorsAndPeripherals.SchDoc|SheetNumber=1
